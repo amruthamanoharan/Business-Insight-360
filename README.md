@@ -90,35 +90,35 @@ AtliQ Hardware, a company specializing in the manufacturing and distribution of 
 ### **1. Home View**
 - A central navigation hub with a user manual and support resources.
 
-  ![Home View](path/to/home_view_image.png)
+  ![Home View](visuals/home_view_image.png)
 
 ### **2. Finance View**
 - Provides detailed Profit & Loss (P&L) statements, gross margin trends, and net profit breakdowns.
 - 
-![Finance View](path/to/finance_view_image.png)
+![Finance View](visuals/finance_view_image.png)
 
 
 ### **3. Sales View**
 - Highlights top and bottom-performing customers/products.
 - Tracks Net Sales and Gross Margin % across regions and categories.
 
-  ![Sales View](path/to/sales_view_image.png)
+  ![Sales View](visuals/sales_view_image.png)
 
 ### **4. Marketing View**
 - Analyzes product and regional performance.
 - Evaluates ROI for marketing campaigns.
 
-  ![Marketing View](path/to/marketing_view_image.png)
+  ![Marketing View](visuals/marketing_view_image.png)
 
 ### **5. Supply Chain View**
 - Tracks Forecast Accuracy, Net Error %, and inventory risks (OOS and Excess Inventory).
 
-  ![Supply Chain View](path/to/supply_chain_view_image.png)
+  ![Supply Chain View](visuals/supply_chain_view_image.png)
 
 ### **6. Executive View**
 - Consolidates high-level KPIs and performance trends for strategic decision-making.
 
-  ![Executive View](path/to/executive_view_image.png)
+  ![Executive View](visuals/executive_view_image.png)
 
 
 
@@ -144,7 +144,7 @@ I am a passionate data analyst transitioning from Web development, with a strong
 
 ## **Repository Features**
 1. **README.md**: Comprehensive project documentation.
-2. **Screenshots Folder**: Contains high-resolution visuals for each dashboard view.
+2. **visuals Folder**: Contains high-resolution visuals for each dashboard view.
 3. **Power BI File (Optional)**: `.pbix` file for hands-on exploration (if permissible).
 
 
