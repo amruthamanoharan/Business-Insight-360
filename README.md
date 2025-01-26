@@ -145,6 +145,5 @@ I am a passionate data analyst transitioning from Web development, with a strong
 ## **Repository Features**
 1. **README.md**: Comprehensive project documentation.
 2. **visuals Folder**: Contains high-resolution visuals for each dashboard view.
-3. **Power BI File (Optional)**: `.pbix` file for hands-on exploration (if permissible).
 
 
