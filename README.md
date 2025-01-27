@@ -138,7 +138,7 @@ Explore the full interactive dashboard here:
 
 
 ## **About Me**
-I am a passionate data analyst transitioning from Web development, with a strong focus on solving business problems through data. I specialize in building interactive dashboards and uncovering actionable insights. Connect with me on [LinkedIn](#https://www.linkedin.com/in/amrutha-manoharan/).
+I am a passionate data analyst transitioning from Web development, with a strong focus on solving business problems through data. I specialize in building interactive dashboards and uncovering actionable insights. Connect with me on [LinkedIn](https://www.linkedin.com/in/amrutha-manoharan/)
 
 
 
