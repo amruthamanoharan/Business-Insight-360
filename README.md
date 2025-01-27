@@ -85,6 +85,12 @@ AtliQ Hardware, a company specializing in the manufacturing and distribution of 
 - **Targets**: Fiscal benchmarks provided by management.
 
 
+## **Data Model**
+The project uses a relational data model with a star and snowflake schema, designed to optimize reporting and analysis. Below is a video walkthrough of the data model:
+
+[Download or View Video](visual/data_model.mp4)
+
+
 
 ## **Dashboard Features**
 ### **1. Home View**
